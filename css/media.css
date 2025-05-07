@@ -814,6 +814,7 @@
     }
     .title-main {
         font-size: 13vw;
+        background-attachment: initial;
     }
     .container {
         max-width: 100%;
